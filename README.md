@@ -2,7 +2,7 @@
 
 My name is Haley Parker and I am a senior student at Eden Prairie High School. I have taken AP Computer Science Principles, AP Java, iOS app development, and am currenty in advanced iOS app development. My goal throughout these classes has been to develop an understanding for different programming languages, and I am continuing this learning in advanced iOS this year. Below are short descriptions of the projects I have worked to help create. Each project also has a link to its readme file, where I talk more about the development process.
 
-March 2022 - [EPHS Word Game](https://github.com/90306479/MessagingApp) is an app that I have been working on for the past month. It is an app that resembles the popular word game "Wordle" but is designed to play across iMessage. It is the first high-level iMessage app I have worked to create.
+March 2022 - [EPHS Word Game](https://github.com/90306479/MessagingApp) is an app that I have been working on with a partner for the past month. It is an app that resembles the popular word game "Wordle" but is designed to play across iMessage. It is the first high-level iMessage app I have worked to create.
 
 February 2022 - [Restaurant Lists](https://github.com/90306479/newRestaurants.git) is an app I worked on at the start of advanced iOS app development. The app can be used to review and rate restaurants in or near my city. I used an apple development tutorial as the app baseline then changed the focus of the app and added features which would make it more usable for my local community.
 
